@@ -1,7 +1,6 @@
 {
   "name": "redux",
   "version": "3.6.0",
-  "private": true,
   "description": "Predictable state container for JavaScript apps",
   "browser": "dist/redux.js",
   "main": "lib/index.js",
